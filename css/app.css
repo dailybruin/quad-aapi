@@ -116,12 +116,12 @@ footer h4 {
 }
 
 a {
-	color: #000;
+	color: #F50E42;
 	font-weight: 400;
 }
 
 a:hover {
-	color: #000;
+	color: #F50E42;
 	border-bottom: 1px solid #F50E42;
 }
 
@@ -150,7 +150,7 @@ a:hover {
 }
 
 .pull-quote-right h4, .pull-quote-left h4 {
-	font-size: 0.7em;
+	font-size: 0.5em;
 	text-transform: uppercase;
 	color: #333;
 	margin-top: 1em;
